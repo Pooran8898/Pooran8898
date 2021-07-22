@@ -9,6 +9,11 @@
 
 - ⚡ Fun fact **I ❤️ Trading**
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pooran8898.github.io/portfolio/)
+
+
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
 <a href="https://twitter.com/pooransuthar4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pooransuthar4" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
